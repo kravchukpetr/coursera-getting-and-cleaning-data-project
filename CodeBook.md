@@ -19,7 +19,7 @@ The R script `run_analysis.R` perform following clean up procedures:
 8. Rename column for `DataTotal` using `MeasurementsNames`
 9. Convert the `activity` and `subject` columns into factors
 10. Create a tidy dataset `DataMean` that contains the average (mean) value of each
-   variable for each subject and activity pair. Doesthis using aggregate() function
-11. `DataMean` tidy dataset write to a tab-delimited file called `tidy.txt`, which represent in this repo.
+   variable for each subject and activity pair. Does this using aggregate() function
+11. `DataMean` tidy dataset writes to a tab-delimited file called `tidy.txt`, which represent in this repo.
 
 
